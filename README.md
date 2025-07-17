@@ -1,4 +1,4 @@
-<img width="513" height="846" alt="image" src="https://github.com/user-attachments/assets/661c1f43-b6e7-4ef3-bd8f-ceb46556265b" />## 👋 Hi there, I'm Mahmoud Shawky
+## 👋 Hi there, I'm Mahmoud Shawky
 
 ### 💻 Backend Developer | Aspiring Data Engineer
 
