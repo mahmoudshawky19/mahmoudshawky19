@@ -28,24 +28,15 @@
 <a href="https://www.leetcode.com/mahmoudshawki830" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahmoudshawki830" height="30" width="40" /></a>
 </p>
 
-
-## 💼 My Highlights
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahmoudshawky19&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudshawky19&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudshawky19&title_color=ffffff&text_color=9f9f9f&icon_color=00c4ff&bg_color=0d1117&hide_border=false&show_icons=true&custom_title=🚀 Backend Projects: 9 | 🖥 WinForms: 1 | 🧪 Selenium Tools: +10 | 🧠 Solved: +100 Problems" height="150" alt="custom stats" />
+</div>
 
-### 💡 What I've Built
-
-- 🔧 **+10 Backend Projects** using `.NET`, `ASP.NET`, `EF`, `LINQ`, `SQL`
-- 🖥 **1 Windows Forms App** with practical business logic
-- 🧪 **+10 Selenium Automation Tools** for testing real-world scenarios
-- 🧠 **+100 Problem Solving Challenges** using `C++`, `C#`, and `Python`
-
----
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
