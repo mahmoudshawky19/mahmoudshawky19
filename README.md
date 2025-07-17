@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact : **I enjoy turning messy data into clean, structured gold — and I still get excited every time I optimize a SQL query!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">ِAbout me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahmoud-shawky-3116942b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-shawky-3116942b4" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/code_hub-b9r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code_hub-b9r" height="30" width="40" /></a>
