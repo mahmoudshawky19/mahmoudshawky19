@@ -33,10 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudshawky19&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudshawky19&title_color=ffffff&text_color=9f9f9f&icon_color=00c4ff&bg_color=0d1117&hide_border=false&show_icons=true&custom_title=🚀 Backend Projects: 9 | 🖥 WinForms: 1 | 🧪 Selenium Tools: +10 | 🧠 Solved: +100 Problems" height="150" alt="custom stats" />
-</div>
-
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
