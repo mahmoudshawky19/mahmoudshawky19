@@ -1,21 +1,9 @@
-## 👋 Hi there, I'm Mahmoud Shawky
+<h1 align="center">Hi 👋, I'm mahmoud shawky</h1>
+<h3 align="center">A passionate backend developer from Egypt</h3>
 
-### 💻 Backend Developer | Aspiring Data Engineer
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-- 🔧 Skilled in:  
-  `C++` • `C#` • `Python` • `OOP` • `Data Structures & Algorithms`  
-  `ASP.NET` • `Entity Framework` • `LINQ` • `SQL` • `Selenium`  
-  `Big Data` • `Hadoop`
-
-- 🌱 Currently diving deep into the world of **Data Engineering**
-- 👯 Open to collaborate on backend systems & big data projects
-- 💬 Ask me about anything in my field — always happy to help!
-- 📫 Reach me on:  
-www.linkedin.com/in/mahmoud-shawky-3116942b4
-  📞 01026739351
-
-- ⚡ Fun fact: I enjoy solving complex problems and turning code into solutions that scale!
-
----
-
-> "Learning never exhausts the mind." – Leonardo da Vinci
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
