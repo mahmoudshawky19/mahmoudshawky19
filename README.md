@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHNhZmk4ZWxqcjdkdDZjc21pZWRmb2pybTFob3F6YmZ5MjRjbWJ6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgRcS5yO99UWc/giphy.gif" height="300" alt="Animated GIF" />
+</div>
 <h1 align="center">Hi 👋, I'm mahmoud shawky</h1>
 <h3 align="center">A passionate backend developer from Egypt</h3>
 
