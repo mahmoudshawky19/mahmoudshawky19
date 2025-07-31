@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **anything related to .NET backend development, C#, OOP, data structures & algorithms, or getting started with big data.**
 
-- 📫 How to reach me **https://www.linkedin.com/in/your-profile or 📱 +201026739351**
+- 📫 How to reach me **[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mahmoud-shawky-3116942b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app] or 📱 +201026739351**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1zz_gk0O6k3fYfZ41iA0YZyUX41BZYN2O/view?usp=drive_link](https://drive.google.com/file/d/1zz_gk0O6k3fYfZ41iA0YZyUX41BZYN2O/view?usp=drive_link)
 
