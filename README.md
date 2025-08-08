@@ -2,25 +2,25 @@
 <h1 align="center">Hi 👋, I'm mahmoud shawky</h1>
 <h3 align="center">A passionate backend developer from Egypt</h3>
 
-- 🔭 I’m currently working as **a .NET Backend Developer, while actively transitioning into the field of Data Engineering.**
+-  I’m currently working as **a .NET Backend Developer, while actively transitioning into the field of Data Engineering.**
 
-- 🌱 I’m currently learning **Data Engineering concepts including Hadoop, Spark, data pipelines, and cloud tools like Google Cloud Platform (GCP), alongside improving my .NET backend architecture and API performance.**
+-  I’m currently learning **Data Engineering concepts including Hadoop, Spark, data pipelines, and cloud tools like Google Cloud Platform (GCP), alongside improving my .NET backend architecture and API performance.**
 
-- 👯 I’m looking to collaborate on **backend systems using ASP.NET Core, as well as open-source data engineering projects involving big data and distributed systems.**
+-  I’m looking to collaborate on **backend systems using ASP.NET Core, as well as open-source data engineering projects involving big data and distributed systems.**
 
-- 🤝 I’m looking for help with **mastering big data tools (like Hadoop ecosystem), designing scalable ETL pipelines, and applying backend knowledge to data processing solutions.**
+-  I’m looking for help with **mastering big data tools (like Hadoop ecosystem), designing scalable ETL pipelines, and applying backend knowledge to data processing solutions.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mahmoudshawky19](https://github.com/mahmoudshawky19)
+-  All of my projects are available at [https://github.com/mahmoudshawky19](https://github.com/mahmoudshawky19)
 
-- 📝 I regularly write articles on [Data Engineering concepts and share insights from my experience in .NET backend development.](Data Engineering concepts and share insights from my experience in .NET backend development.)
+-  I regularly write articles on [Data Engineering concepts and share insights from my experience in .NET backend development.](Data Engineering concepts and share insights from my experience in .NET backend development.)
 
-- 💬 Ask me about **anything related to .NET backend development, C#, OOP, data structures & algorithms, or getting started with big data.**
+-  Ask me about **anything related to .NET backend development, C#, OOP, data structures & algorithms, or getting started with big data.**
 
-- 📫 How to reach me **[https://www.linkedin.com/in/mahmoud-shawky-3116942b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app] or 📱 +201026739351**
+-  How to reach me **[https://www.linkedin.com/in/mahmoud-shawky-3116942b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app] or  +201026739351**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zz_gk0O6k3fYfZ41iA0YZyUX41BZYN2O/view?usp=drive_link](https://drive.google.com/file/d/1zz_gk0O6k3fYfZ41iA0YZyUX41BZYN2O/view?usp=drive_link)
+-  Know about my experiences [https://drive.google.com/file/d/1zz_gk0O6k3fYfZ41iA0YZyUX41BZYN2O/view?usp=drive_link](https://drive.google.com/file/d/1zz_gk0O6k3fYfZ41iA0YZyUX41BZYN2O/view?usp=drive_link)
 
-- ⚡ Fun fact : **I enjoy turning messy data into clean, structured gold — and I still get excited every time I optimize a SQL query!**
+-  Fun fact : **I enjoy turning messy data into clean, structured gold — and I still get excited every time I optimize a SQL query!**
 
 <h3 align="left">ِAbout me:</h3>
 <p align="left">
