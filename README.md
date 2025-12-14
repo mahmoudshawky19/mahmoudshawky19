@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm mahmoud shawky</h1>
 <h3 align="center">A passionate backend developer from Egypt</h3>
 
--  I’m currently working as **a .NET Backend Developer, while actively transitioning into the field of Data Engineering.**
+-  I’m currently working as **a .NET Developer, while actively transitioning into the field of Data Engineering.**
 
 -  I’m currently learning **Data Engineering concepts including Hadoop, Spark, data pipelines, and cloud tools like Google Cloud Platform (GCP), alongside improving my .NET backend architecture and API performance.**
 
