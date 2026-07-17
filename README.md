@@ -1,70 +1,82 @@
+<h1 align="center">Hi 👋, I'm Mahmoud Shawky</h1>
+<h3 align="center">A passionate .NET Backend Developer from Egypt</h3>
 
-<h1 align="center">Hi 👋, I'm mahmoud shawky</h1>
-<h3 align="center">A passionate backend developer from Egypt</h3>
+- 🔭 I’m currently working as a **.NET Developer**, building backend applications and automation solutions using **C#** and **ASP.NET Core**.
 
--  I’m currently working as **a .NET Developer, while actively transitioning into the field of Data Engineering.**
+- 🌱 I’m currently learning **advanced ASP.NET Core, software architecture, design patterns, and scalable Web API development.**
 
--  I’m currently learning **Data Engineering concepts including Hadoop, Spark, data pipelines, and cloud tools like Google Cloud Platform (GCP), alongside improving my .NET backend architecture and API performance.**
+- 👯 I’m looking to collaborate on **ASP.NET Core backend projects, REST APIs, and open-source .NET applications.**
 
--  I’m looking to collaborate on **backend systems using ASP.NET Core, as well as open-source data engineering projects involving big data and distributed systems.**
+- 💬 Ask me about **C#, ASP.NET Core, Entity Framework Core, SQL Server, REST APIs, OOP, Data Structures & Algorithms, and software architecture.**
 
--  I’m looking for help with **mastering big data tools (like Hadoop ecosystem), designing scalable ETL pipelines, and applying backend knowledge to data processing solutions.**
+- 📂 All of my projects are available at:
+  **https://github.com/mahmoudshawky19**
 
--  All of my projects are available at [https://github.com/mahmoudshawky19](https://github.com/mahmoudshawky19)
+- 📝 I enjoy sharing what I learn about **.NET development, clean code, backend architecture, and software engineering.**
 
--  I regularly write articles on [Data Engineering concepts and share insights from my experience in .NET backend development.](Data Engineering concepts and share insights from my experience in .NET backend development.)
+- 📫 How to reach me:
+  **LinkedIn:** https://www.linkedin.com/in/mahmoud-shawky-3116942b4
+  **Phone:** +20 1026739351
 
--  Ask me about **anything related to .NET backend development, C#, OOP, data structures & algorithms, or getting started with big data.**
+- 📄 Know more about my experience:
+  https://drive.google.com/file/d/1zz_gk0O6k3fYfZ41iA0YZyUX41BZYN2O/view
 
--  How to reach me **[https://www.linkedin.com/in/mahmoud-shawky-3116942b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app] or  +201026739351**
+- ⚡ Fun fact:
+  **I enjoy building backend systems, solving programming problems, and optimizing SQL queries for better performance.**
 
--  Know about my experiences [https://drive.google.com/file/d/1zz_gk0O6k3fYfZ41iA0YZyUX41BZYN2O/view?usp=drive_link](https://drive.google.com/file/d/1zz_gk0O6k3fYfZ41iA0YZyUX41BZYN2O/view?usp=drive_link)
+<h3 align="left">Connect with me:</h3>
 
--  Fun fact : **I enjoy turning messy data into clean, structured gold — and I still get excited every time I optimize a SQL query!**
-
-<h3 align="left">ِAbout me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mahmoud-shawky-3116942b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-shawky-3116942b4" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/code_hub-b9r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code_hub-b9r" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mahmoudshawki830" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahmoudshawki830" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahmoud-shawky-3116942b4" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="https://www.youtube.com/c/code_hub-b9r" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/mahmoudshawki830" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+</a>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudshawky19&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <br> <!-- Adding line break here -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudshawky19&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=mahmoudshawky19&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudshawky19&layout=compact&theme=dracula" height="150"/>
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"/>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="sql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
- 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30"/>
+<img width="12"/>
 
-###
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
+</div>
 
 <br clear="both">
 
-###
-
-
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWpmcXIwa284MTQxM240d3ZnbmNpeHBjbTluZ3M2NmFvZ2VoazNxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11ZSwQNWba4YF2/giphy.gif" height="300" alt="Animated GIF" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWpmcXIwa284MTQxM240d3ZnbmNpeHBjbTluZ3M2NmFvZ2VoazNxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11ZSwQNWba4YF2/giphy.gif" height="300"/>
 </div>
-
-
