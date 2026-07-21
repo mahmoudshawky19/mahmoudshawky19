@@ -153,16 +153,19 @@
 
 ---
 
-## 📚 Currently Learning
+## 🤖 Currently Learning
 
-- Microservices
+- Agentic AI
+- AI Agents
+- LangChain & LangGraph
+- Retrieval-Augmented Generation (RAG)
+- Model Context Protocol (MCP)
+- OpenAI API Integration
+- AI Automation
 - System Design
-- Docker
-- Kubernetes
-- Azure
-- Cloud Computing
-- Distributed Systems
-
+- Microservices
+- Docker & Kubernetes
+- Azure Cloud
 ---
 
 ## 📊 GitHub Stats
