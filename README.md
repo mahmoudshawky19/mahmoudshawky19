@@ -9,36 +9,35 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔭 I'm currently working as a **.NET Developer**, building backend applications, automation tools, and data extraction solutions using **C#, ASP.NET Core, and SQL Server**.
+- I'm currently working as a **.NET Developer**, building backend applications, automation tools, and data extraction solutions using **C#, ASP.NET Core, and SQL Server**.
 
-- 🌱 I'm currently learning **Software Architecture, Microservices, System Design, Design Patterns, Docker, Kubernetes, and Cloud Technologies**.
+- Currently learning **Software Architecture, Microservices, System Design, Design Patterns, Docker, Kubernetes, and Cloud Technologies**.
 
-- 👯 I'm looking to collaborate on **ASP.NET Core Web APIs, Backend Systems, Automation Tools, and Open Source .NET Projects.**
+- Open to collaborating on **ASP.NET Core Web APIs, Backend Systems, Automation Tools, and Open Source .NET Projects**.
 
-- 💬 Ask me about **C#, ASP.NET Core, Entity Framework Core, SQL Server, LINQ, REST APIs, Clean Architecture, Selenium, Playwright, Web Scraping, and Software Design.**
+- Ask me about **C#, ASP.NET Core, Entity Framework Core, SQL Server, LINQ, REST APIs, Clean Architecture, Selenium, Playwright, Web Scraping, and Software Design**.
 
-- 🚀 Passionate about building **high-performance backend systems, scalable REST APIs, automation solutions, and web scraping tools.**
+- Passionate about building **high-performance backend systems, scalable REST APIs, automation solutions, and web scraping tools**.
 
-- 📂 All of my projects:
+- Projects:
   **https://github.com/mahmoudshawky19**
 
-- 📝 I enjoy sharing what I learn about **Backend Development, Software Engineering, Clean Code, Design Patterns, and System Architecture.**
+- I enjoy sharing what I learn about **Backend Development, Software Engineering, Clean Code, Design Patterns, and System Architecture**.
 
-- 📫 Reach me:
+- Contact:
   - **LinkedIn:** https://www.linkedin.com/in/mahmoud-shawky-3116942b4
   - **Phone:** +20 1026739351
 
-- 📄 Resume:
+- Resume:
   https://drive.google.com/file/d/1zz_gk0O6k3fYfZ41iA0YZyUX41BZYN2O/view
 
-- ⚡ Fun Fact:
-  **I love turning repetitive tasks into automated solutions and optimizing backend systems for maximum performance.**
+- **Fun Fact:** I enjoy turning repetitive tasks into automated solutions and optimizing backend systems for maximum performance.
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mahmoud-shawky-3116942b4" target="_blank">
@@ -56,9 +55,9 @@
 
 ---
 
-# 💻 Tech Stack
+## Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
@@ -67,7 +66,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
 </p>
 
-### ⚙️ Backend
+### Backend
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40"/>
@@ -76,7 +75,7 @@
 
 - ASP.NET Core
 - ASP.NET MVC
-- REST API
+- REST APIs
 - Entity Framework Core
 - LINQ
 - SignalR
@@ -93,7 +92,7 @@
 
 ---
 
-### 🗄️ Databases
+### Databases
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
@@ -108,7 +107,7 @@
 
 ---
 
-### 🤖 Automation & Scraping
+### Automation & Scraping
 
 - Selenium
 - Playwright
@@ -120,7 +119,7 @@
 
 ---
 
-### 🛠️ Tools
+### Tools
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
@@ -139,21 +138,21 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-- 🗺️ Google Maps Extractor API
-- 🎓 Student Management System (ASP.NET MVC)
-- 🛒 ASP.NET MVC E-Commerce
-- 💬 ASP.NET Identity Chat System
-- 📍 Google Reviews Extractor
-- 📘 Facebook Comments Extractor
-- 📨 Telegram Automation Tool
-- 📱 WhatsApp Automation Tool
-- 📸 Instagram Automation Tool
+- Google Maps Extractor API
+- Student Management System (ASP.NET MVC)
+- ASP.NET MVC E-Commerce
+- ASP.NET Identity Chat System
+- Google Reviews Extractor
+- Facebook Comments Extractor
+- Telegram Automation Tool
+- WhatsApp Automation Tool
+- Instagram Automation Tool
 
 ---
 
-## 🤖 Currently Learning
+## Currently Learning
 
 - Agentic AI
 - AI Agents
@@ -166,10 +165,10 @@
 - Microservices
 - Docker & Kubernetes
 - Azure Cloud
+
 ---
 
- 
-## 🏆 Areas of Interest
+## Areas of Interest
 
 - Backend Development
 - ASP.NET Core
@@ -184,5 +183,5 @@
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
-<h4 align="center">If you like my work, don't forget to ⭐ my repositories.</h4>
+<h3 align="center">Thanks for visiting my profile.</h3>
+<h4 align="center">If you like my work, consider starring my repositories.</h4>
