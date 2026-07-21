@@ -40,13 +40,7 @@
 </a>
 </p>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mahmoudshawky19&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150"/>
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudshawky19&layout=compact&theme=dracula" height="150"/>
-</div>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"/>
 
